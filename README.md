@@ -60,10 +60,11 @@ RTL LOGIC FOR FLIPFLOPS
 [RTLimage.pdf](https://github.com/user-attachments/files/24150159/RTLimage.pdf)
 
 TIMING DIGRAMS FOR FLIP FLOPS
+[Export.bmp](https://github.com/user-attachments/files/24167063/Export.bmp)
 
 
 
-[Uploading Export.bmp…]()
+
 
 RESULTS
 
